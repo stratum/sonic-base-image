@@ -1,0 +1,1 @@
+# sonic-base-image
